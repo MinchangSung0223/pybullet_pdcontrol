@@ -1,1 +1,3 @@
 # pybullet_pdcontrol
+
+pip install pybullet
